@@ -8,4 +8,7 @@ Students of Arabic who learn it as a foreign language first develop their unders
 ## Implementation
 Our training data is comprised of 3615 Diacritized Arabic sentences. We preprocess them (data encoding) and divide them into input and target sequences of size 5 in order to train over model. Our model contains Bidirectional Long-Short Term Memory units with RelU activation. Due to limitated computational power we kept our data size and number of epochs as low as possible. Even then our system after post processing is giving us 80% accuracy on unseen data. 
 
+## Who we are?
+We are graduates of FAST National University Lahore, Pakistan. Arabic Text Diacritization was our Final Year Project. Our group consists of four members: Afrasiyab, Ahmad Bilal, Saadi Ahmad and Saqib Rashid (me).
+
 *See the Final presentation Powerpoint file for further details*
